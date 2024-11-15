@@ -1,10 +1,8 @@
-package Graph.DFS_BFS;
+package Graph.DFS_BFS_Topo;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-
-import static Graph.DFS_BFS.topoSort.topoSortn;
 
 public class CourseSchedule {
     public static void main(String[] args) {
